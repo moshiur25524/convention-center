@@ -7,14 +7,14 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 .footer-part {
-    height: 200px;
+    height: 250px;
     background-color: black;
 }
 .card-design {
     background-color: cornflowerblue;
 }
+
 .hover-style:hover {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     transform: scale(1.1);
-
 }
